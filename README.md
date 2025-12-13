@@ -4,7 +4,8 @@ Made using this [guide](https://jams.hackclub.com/jam/hacker-card)
 
 This is just a basic NFC card that can be programmed to do various tasks when scanned by an NFC-capable device.
 
-![NFC Hacker Card](/assets/image.png)
+<img width="808" height="594" alt="image" src="https://github.com/user-attachments/assets/4e8948a8-fb4c-40ef-8f70-f50e565c2e58" />
+<img width="818" height="598" alt="image" src="https://github.com/user-attachments/assets/46d85f9a-2b4b-4f99-a824-970efd57709d" />
 
 #### Schematics
 
